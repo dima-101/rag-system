@@ -32,7 +32,7 @@
 
 | Индексация + Ассистент | Метрики RAGAS |
 |------------------------|---------------|
-| [![Скриншоты 1-2](screenshots-1.md)](screenshots-1.md) | [![Метрики](screenshots-2.md)](screenshots-2.md) |
+| [![Скриншоты 1-2](screenshots-1.jpg)](screenshots-1.jpg) | [![Метрики](screenshots-2.jpg)](screenshots-2.jpg) |
 
 **[Подробные скриншоты и логи → screenshots-1.md]**  
 **[RAGAS метрики и тесты → screenshots-2.md]**
